@@ -11,7 +11,6 @@ Build-Depends: cmake (>= 2.8),
                libsqlite3-dev,
                libxml2,
                libxml2-dev,
-               libwebkit2gtk-4.0-37,
                libwebkit2gtk-4.0-dev,
                libpoppler-glib-dev
 
